@@ -1,9 +1,9 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://github.com/himajavendra.github.io
+> https://github.com/himajavendra
 
-![GitHub stars](https://github.com/himajavendra) 
+[![GitHub stars](https://github.com/himajavendra)]
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
