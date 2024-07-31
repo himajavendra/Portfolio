@@ -37,7 +37,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://github.com/himajavendra//)**
+To view a live example, **[click here](https://portfolio-himajavendras-projects.vercel.app/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
